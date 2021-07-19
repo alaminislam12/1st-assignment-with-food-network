@@ -36,19 +36,40 @@ body{font-family: 'Poppins', sans-serif;
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-position:left ;
-    padding: 10px;
-}
-.bottom{
+    padding: 10px;}
 
 
-}
+
+
 #ummmy{
     text-align: center;
-    font-size: xx-large;
-}
-#recipy{text-align: center;
-
-}
+    font-size: xx-large;}
     
+    #recipy{text-align: center;
+
+    } 
+    .shadow{
+        box-shadow: 10px 15px 30px;
+        width: 100%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 2px;
+        border-radius: 2%;
+    }
+    .last{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 800;
+        text-align: center;
+        font-size: xx-large;
+    }
+    .footer{
+        color:white;
+        background-color: black;
+
+    }
+    
+    
+    
+
 
 
