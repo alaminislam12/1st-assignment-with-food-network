@@ -1,0 +1,54 @@
+body{font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: bottom;
+
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 7%;
+    padding: 2px;
+    color: azure;
+    background-image: linear-gradient(orange,tomato);
+}
+.orange-color{
+    color: orangered;
+}
+.text-size{
+    font-size: xx-large;
+}
+.flexible-contain{
+    display: flex;
+    padding-bottom: 50px;
+
+
+}
+
+.half-width{
+    width: 50%;
+    padding: 10px;
+
+}
+.half-width img{
+    width: 80%;
+}
+
+.middle-part{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position:left ;
+    padding: 10px;
+}
+.bottom{
+
+
+}
+#ummmy{
+    text-align: center;
+    font-size: xx-large;
+}
+#recipy{text-align: center;
+
+}
+    
+
+
